@@ -11,7 +11,8 @@ This project utilizes Makefiles. To compile, just run `make`.
 
 You can run `./randomchar.out` as well as any flags.
 
-```Usage ./randomchar.out [-c COUNT]
+```
+Usage: ./randomchar.out [-c COUNT]
 
     -c: Character count. Optional.
 ```
