@@ -19,7 +19,7 @@ Usage: ./randomchar.out [-c COUNT]
 
 ## Authors
 
-- Will Ciesialka
+- Willow Ciesialka
 
 ## License
 
